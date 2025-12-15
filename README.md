@@ -186,7 +186,7 @@ Frontend handles all admin operations securely
 
 👤 Author
 
-Mrityunjay Chauhan
+Atharva Durge
 Computer Science & Engineering (AI & ML)
 Full-Stack | FastAPI | React | SQL | Cloud Deployment
 
